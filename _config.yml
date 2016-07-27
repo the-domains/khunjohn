@@ -1,4 +1,3 @@
-layout_spectrum: 0.8004676157142967
 typography_spectrum: 0.435085556935519
 color:
   brandStrength: 0.6017863100860268
@@ -11,5 +10,7 @@ color:
     - '#BCAB47'
     - '#6B574B'
     - '#160600'
+layout_spectrum: 0.8004676157142967
 name: Khunjohn
 title: Thongsook College
+description: International Programs

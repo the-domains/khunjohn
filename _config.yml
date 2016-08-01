@@ -1,16 +1,16 @@
-typography_spectrum: 0.434708412270993
+typography_spectrum: 0.1617226842790842
 color:
-  brandStrength: 0.8615342539269477
-  lightness: 0.44218859635293484
-  saturation: 0.8226216332986951
-  rhythmicContrast: 0.8985320455394685
+  brandStrength: 0.8624268576968461
+  lightness: 0.5989283893723041
+  saturation: 0.8140833040233701
+  rhythmicContrast: 0.8767212682869285
   brandColors:
     - '#E9EBE7'
     - '#59AEB9'
-    - '#366D76'
-    - '#000000'
-    - '#E7C21B'
-layout_spectrum: 0.3008054532110691
+    - '#255988'
+    - '#87878A'
+    - '#80D5F2'
+layout_spectrum: 0.6666834836360067
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/7da843ed-abcd-47b9-b530-b9920b65be0e.png
 name: Thongsook College
